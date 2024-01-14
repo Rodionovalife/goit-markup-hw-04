@@ -131,8 +131,10 @@ img {
   overflow: hidden;
 }
 .title-section {
+  max-width: 1440px;
   background-color: #2e2f42;
   padding: 188px 0;
+  margin: 0 auto;
   background-image: linear-gradient(
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
@@ -300,8 +302,7 @@ img {
   text-align: center;
   margin-bottom: 8px;
 }
-.container-social-icons {
-}
+
 .social-icons-list {
   display: flex;
   justify-content: center;
